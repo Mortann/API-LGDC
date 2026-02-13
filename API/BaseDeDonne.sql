@@ -1,4 +1,3 @@
-CREATE DATABASE lgdc_bdd;
 USE lgdc_bdd;
 
 /* Organisation : Représente les différentes differntes organisation principales : 
